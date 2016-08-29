@@ -2,7 +2,7 @@
 
 ![](20160707.gif)
 
-Pico-8
+PICO-8
 
 [Everyday One Motion](http://motions.work/motion/307)  
 [Cartridge](http://www.lexaloffle.com/bbs/?tid=3777)  

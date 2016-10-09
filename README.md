@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160707 "Tanabata"
+# Everyday One Motion - 20160707  
 
-![](20160707.gif)
+"Tanabata"  
 
-PICO-8
+![](20160707.gif)  
+
+PICO-8  
 
 [Everyday One Motion](http://motions.work/motion/307)  
 [Cartridge](http://www.lexaloffle.com/bbs/?tid=3777)  
